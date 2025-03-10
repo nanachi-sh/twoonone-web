@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkuno_web"]=self["webpackChunkuno_web"]||[]).push([[700],{1241:function(n,u){u.A=(n,u)=>{const r=n.__vccOpts||n;for(const[t,e]of u)r[t]=e;return r}},700:function(n,u,r){r.r(u),r.d(u,{default:function(){return s}});var t=r(6768);function e(n,u){return(0,t.uX)(),(0,t.CE)("div")}var c=r(1241);const o={},f=(0,c.A)(o,[["render",e]]);var s=f}}]);
+//# sourceMappingURL=700.203bdce9.js.map
